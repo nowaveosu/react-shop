@@ -37,7 +37,12 @@ div{
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.modal{
+  margin-top: 20px;
+  padding:20px;
+  background : #eee;
+  text-align: left;
+}
 .App-link {
   color: #61dafb;
 }
